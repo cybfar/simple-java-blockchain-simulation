@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\A donner\\bcprov-jdk15on-159.jar",
+        "d:\\A donner\\gson-2.6.2.jar",
+        "e:\\Cours Master I\\Blockchain\\A donner\\bcprov-jdk15on-159.jar",
+        "e:\\Cours Master I\\Blockchain\\A donner\\gson-2.6.2.jar"
+    ]
+}
